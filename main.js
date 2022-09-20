@@ -18,6 +18,8 @@ console.log({
 
 console.log(input1.value)
 
+btn.addEventListener('click', appenClick)
+
 H1.innerHTML = 'Dracula <br> Light Year'
 console.log(H1.getAttribute('pantalla'))
 H1.setAttribute('class', 'Samsung')
